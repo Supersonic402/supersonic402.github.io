@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 125, 187);
+}
+h1{
+    color:rgb(241, 212, 0);
+}
+table, td, th{
+    border: 1px solid black;
+    text-align: center;
+}
