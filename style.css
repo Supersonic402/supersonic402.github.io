@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://cdn.discordapp.com/attachments/1106212929893834812/1238564387921461348/Untitled423_20240510145236.png?ex=663fbe79&is=663e6cf9&hm=8c269f1b052e52fcf9088bce5678aa6db544a6694b7bdf8bdff3eda979a567fa&);
+    background-color: cornflowerblue;
 }
 h1,h2{
     color:rgb(200, 163, 0);
@@ -11,4 +11,7 @@ table, td{
 }
 p,li{
     color:rgb(8, 235, 201)
+}
+#Pa2{
+    width: 200px;
 }
