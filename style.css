@@ -2,7 +2,7 @@ body{
     background-color: cornflowerblue;
 }
 h1,h2{
-    color:rgb(200, 163, 0);
+    color:rgb(235, 192, 0);
 }
 table, td{
     border: 1px solid rgb(241, 212, 0);
@@ -12,6 +12,11 @@ table, td{
 p,li{
     color:rgb(8, 235, 201)
 }
+
 #Pa2{
     width: 250px;
+}
+
+#Mel_S{
+    width: 50px;
 }
